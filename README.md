@@ -75,4 +75,4 @@ Use your terminal (Linux/macOS) or command prompt (Windows).
 Execute the following command to clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/your-repository.git](https://github.com/Harikaran-u/users-manager-backend-app-it-design.git)
+git clone https://github.com/Harikaran-u/users-manager-backend-app-it-design.git
