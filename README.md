@@ -63,7 +63,7 @@ To clone the repository to your local machine, follow these instructions:
 
 1. **Copy the Repository URL:**
 
-   The URL to clone the repository is:
+   The URL to clone the repository is: https://github.com/Harikaran-u/users-manager-backend-app-it-design.git
 
 
 2. **Open Terminal or Command Prompt:**
@@ -75,4 +75,4 @@ Use your terminal (Linux/macOS) or command prompt (Windows).
 Execute the following command to clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone [https://github.com/yourusername/your-repository.git](https://github.com/Harikaran-u/users-manager-backend-app-it-design.git)
